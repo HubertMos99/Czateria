@@ -1,0 +1,39 @@
+Zadanie 4.
+
+1. 	Bot udający człowieka przejmuje inicjatywę w prowadzeniu rozmowy, 
+	podczas gdy bot asystent tylko reaguje na zachowania użytkownika.
+
+
+2/3. 	a) żarty obu botów będą na podobnym poziomie, natomiast bot asystent
+   	   zawsze opowie żart, a "mądry bot" może nie być w nastroju
+
+	b) tak samo, asystent wypełni zadanie, a "mądry bot" odpowie prześmiewczo
+
+	c) oba poradzą sobie dobrze
+
+	d) asystent woli aby zadawać mu pytania pojedyńczo, bot imitujący człowieka
+	   poradzi sobie z wieloma pytaniami
+
+	e) oba poradzą sobie dobrze
+
+	f) bot udający człowieka poradzi sobie dużo lepiej od asystenta
+
+	g) bot udający człowieka robi to często, asystent może tak zrobić jeśli nie 
+	   zna dokładnej odpowiedzi na pytanie
+
+	h) bot udający człowieka często zmienia temat rozmowy, asystent tylko reaguje
+	   na pytania użytkownika
+
+	i) oba mają problem z utzymaniem wątków, "mądry bot" zmienia temat kiedy tak
+ 	   się stanie
+
+
+4.	Podczas próby zorganizowania rozmowy dwóch botów jeden z nich okazał się mniej
+	odporny na humor drugiego i poprosił o zadanie pytania w inny sposób tym samym
+	kończąc rozmowe.
+
+5. 	Zdenerwowanie bota wydaję sie niemożliwe, mniej "inteligentny" będzie powtarzał
+	formułkę z prośbą o zadanie pytania w inny sposób a ten "mądrzejszy" zmieni temat,
+	lub odpowie prześmiewczo.
+
+
