@@ -1,0 +1,33 @@
+Zadanie 1.
+
+Wszystkie wymienione zadania wymagają inteligencji od człowieka, jednocześnie wszystkie z tych zadań 
+w lepszym lub gorszym stopniu jest w stanie wykonywać sztuczna inteligencja. AI z łatwością może 
+wykonać takie zadania jak wypełnienie deklaracji PIT, czy problemy wymagające obliczeń matematycznych,
+z większym wysiłkiem przychodzi jej pisanie oprogramowania czy kierowanie samochodem. Natomiast bardziej
+abstrakcyjne zagadnienia, takie jak komponowanie muzyki, wydają się sprawiać sztucznej inteligencji
+spory problem.
+
+
+Zadanie 2.
+
+Wszystkie z wymienionych problemów można uznać za mieszczące się w zakresie sztucznej inteligencji.
+
+• streszczanie tekstu - paraphrasing.io
+• tłumaczenie tekstu - translate.google.pl
+• klasyfikacja tekstu do kategorii tematycznych - ChatGPT
+• odpowiadanie na proste pytania zadawane w języku naturalnym - Amazon Alexa
+• rozwiązywanie układów równań - wolframalpha.com
+• układanie rozkładu jazdy - w Dubaju wykorzystali sztuczną intelignecję do usprawnienia publicznego transporu
+• rozwiązywanie układów równań liniowych - wolframalpha.com
+• symboliczne obliczanie pochodnych - wolframalpha.com
+• symboliczne całkowanie - wolframalpha.com
+• kierowanie samochodem - Tesla
+
+
+Zadanie 3.
+
+Wszystkie wymienione rodzaje komunikacyjnego zachowania człowieka mogą być skutecznie imitowane przez sztuczne systemy.
+
+Imitowanie rozmowy towarzyskiej nie jest już zaskoczeniem w przypadku chatbotów, niektóre lepiej zaprogramowane potrafią
+też wejść w dyskusje polityczne czy naukowe.
+Odpowiadanie na pytania klientów, czy to w telefonicznej czy internetowej infolinii jest już standardem.
